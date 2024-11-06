@@ -46,7 +46,6 @@
       - omaha
       - openscap
       - pulp
-      - remote_execution_ssh
       - salt
     jobs:
       - 'smart-proxy-{plugin}-test'
